@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Dhaanu, an Aspiring Full Stack Web Developer.
-- 🌱 currently learning NodeJS, MongoDB, JavaScript, DSA.
+- 🌱 Currently learning NodeJS, MongoDB, JavaScript, DSA.
 - 📫 How to reach me: dhaanu97@gmail.com
 
 <!--
