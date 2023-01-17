@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 I am Dhaanu, an Aspiring Full Stack Web Developer.
-- 🌱 Currently learning NodeJS, MongoDB, JavaScript, DSA.
+- 🌱 Currently learning 
+
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,nodejs)](https://skillicons.dev)
+
 - 📫 How to reach me: dhaanu97@gmail.com
 
 
