@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I am an Aspiring Full Stack developer who is very much interested in Web Development, I have always wondered about Backend system and currently learning Node.js, Mongo DB & Express. 
+I am an Aspiring Full Stack developer who is very much interested in Web Development, I have always wondered about Backend system and so currently learning Node.js, Mongo DB & Express. 
 
 I also worked on 3 Industry Level projects : 
 Cloned [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/) & [Dell.com](https://snazzy-gelato-c02112.netlify.app/). 
