@@ -2,15 +2,18 @@
 
 Hi there 👋
 
+I am an Aspiring Full Stack developer who is very much interested in Web Development, I have always wondered about Backend system and currently learning Node.js, Mongo DB & Express. 
 
-- Currently learning 
+I also worked on 3 Industry Level projects : 
+Cloned [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/) & [Dell.com](https://snazzy-gelato-c02112.netlify.app/). 
+
+
+My Skillset:
 
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,nodejs)](https://skillicons.dev)
    
-- Worked on 3 Industry Level projects : 
-Cloned [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/) & [Dell.com](https://snazzy-gelato-c02112.netlify.app/). 
-  
-- Reach me on :
+
+  Reach me on :
     [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dhaanu/)
      &nbsp;
 
