@@ -10,7 +10,10 @@ Hi there 👋
 - Worked on 3 Industry Level projects : 
 Cloned [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/) & [Dell.com](https://snazzy-gelato-c02112.netlify.app/). 
   
-- How to reach me: dhaanu97@gmail.com
+- Reach me on :
+    [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dhaanu/)
+     &nbsp;
+
 
 
 
