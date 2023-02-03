@@ -22,15 +22,14 @@ I also worked on 3 Industry Level projects by Cloning [Buffer](https://symphonio
 
 
 <!-- ## My GitHub Stats: -->
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dhaanui&count_private=true&theme=tokyonight&showicons=true)]()
-
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanui&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanui&langs_count=5&theme=tokyonight)]()     [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dhaanui&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 
+
+
+## GitHub Streak :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DhaanuI&theme=Javascript-dark)](https://git.io/streak-stats)
 
 <!--
 **DhaanuI/DhaanuI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
