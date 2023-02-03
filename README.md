@@ -29,7 +29,7 @@ I also worked on 3 Industry Level projects by Cloning [Buffer](https://symphonio
 
 
 ## GitHub Streak :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DhaanuI&theme=Javascript-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DhaanuI&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **DhaanuI/DhaanuI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
