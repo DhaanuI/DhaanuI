@@ -19,8 +19,8 @@ I also worked on 3 Industry Level projects by Cloning [Buffer](https://symphonio
 
 
 <!-- ## My GitHub Stats: -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanui&langs_count=5&theme=tokyonight)]()     [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dhaanui&count_private=true&theme=tokyonight&showicons=true)]()
-
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanui&langs_count=5&theme=tokyonight)]()     [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dhaanui&count_private=true&theme=tokyonight&showicons=true)]()
+ -->
 
 
 
