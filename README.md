@@ -18,7 +18,7 @@ I also worked on 3 Industry Level projects by Cloning [Buffer](https://symphonio
  
  ## Checkout My Portfolio : [DhaanuI](https://dhaanui.github.io/)
 
-
+## Statistics:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhaanuI&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="DhaanuI" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DhaanuI&show_icons=true&locale=en&theme=tokyonight" alt="DhaanuI" /></p>
