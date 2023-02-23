@@ -24,22 +24,13 @@ I also worked on 3 Industry Level projects by Cloning [Buffer](https://symphonio
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DhaanuI&show_icons=true&locale=en&theme=tokyonight" alt="DhaanuI" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhaanuI&" alt="DhaanuI" /></p> -->
-
-
-<!-- ## My GitHub Stats: -->
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaanui&langs_count=5&theme=tokyonight)]()     [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dhaanui&count_private=true&theme=tokyonight&showicons=true)]()
- -->
-
-
 
 
 ## GitHub Streak :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DhaanuI&theme=tokyonight)](https://git.io/streak-stats)
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Thanks+for+visiting+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Thanks+for+visiting+my+Profile.)](https://git.io/typing-svg)
 
 <!-- ![](https://komarev.com/ghpvc/?username=dhaanui&color=blue)
  -->
