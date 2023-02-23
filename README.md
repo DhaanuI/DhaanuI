@@ -3,11 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi+there%2C+I+am+Dhaanu)](https://git.io/typing-svg)
 
 
-#### An Aspiring Full Stack developer who is very much interested in Web Development, I have always wondered how Backend system works, hence I liked to be specialised in Backend and so currently learning Node.js, MongoDB & Express.
-#### I am also proficient in Vanilla JavaScript, HTML & CSS.
+### An Aspiring Full Stack developer who is very much interested in Web Development, I have always wondered how Backend system works, hence I liked to be specialised in Backend and so currently learning Node.js, MongoDB & Express.
+### I am also proficient in Vanilla JavaScript, HTML & CSS.
  
-
-#### I also worked on 3 Industry Level projects by Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/) & [Dell.com](https://snazzy-gelato-c02112.netlify.app/).
+### I also worked on 3 Industry Level projects by Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/) & [Dell.com](https://snazzy-gelato-c02112.netlify.app/).
 
 
 ## My Skillset:
