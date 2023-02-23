@@ -1,8 +1,9 @@
-## ![Blue Gradient Header Banner (1)](https://user-images.githubusercontent.com/112754832/215061523-7e21b628-bc42-418e-98cf-e58bb3912026.png)
+<!-- ## ![Blue Gradient Header Banner (1)](https://user-images.githubusercontent.com/112754832/215061523-7e21b628-bc42-418e-98cf-e58bb3912026.png) -->
 
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi+there%2C+I+am+Dhaanu)](https://git.io/typing-svg)
 
-I am an Aspiring Full Stack developer who is very much interested in Web Development, I have always wondered how Backend system works, hence I liked to be specialised in Backend and so currently learning Node.js, MongoDB & Express.
+
+An Aspiring Full Stack developer who is very much interested in Web Development, I have always wondered how Backend system works, hence I liked to be specialised in Backend and so currently learning Node.js, MongoDB & Express.
 I am also proficient in Vanilla JavaScript, HTML & CSS.
  
 
@@ -35,6 +36,10 @@ I also worked on 3 Industry Level projects by Cloning [Buffer](https://symphonio
 
 ## GitHub Streak :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DhaanuI&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Thanks+for+visiting+my+Github+Profile)](https://git.io/typing-svg)
 
 <!-- ![](https://komarev.com/ghpvc/?username=dhaanui&color=blue)
  -->
