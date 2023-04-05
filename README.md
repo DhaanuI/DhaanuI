@@ -11,7 +11,7 @@
 
 ## My Skillset:
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,nodejs)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,mysql,nodejs,aws)](https://skillicons.dev)
    
 
  ##  Reach me on :  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dhaanu/) &nbsp; 
