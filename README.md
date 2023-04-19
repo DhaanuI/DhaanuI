@@ -8,7 +8,7 @@
 ### I have always wondered how Backend system works, hence I liked to be specialised in Backend and so learnt Node.js, express.js, databases like MongoDB & MySQL.
 ### I am also proficient in Vanilla JavaScript, HTML & CSS and possess basic knowledge in React.js, TypeScript and AWS.
  
-### I worked on multiple Industry Level projects by Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/), [Dell.com](https://snazzy-gelato-c02112.netlify.app/), [Stack Overflow](https://rococo-rolypoly-a926ac.netlify.app/) and [Hair Salon Appointment Booking System](https://snipsandspikes.netlify.app/).
+### I worked on multiple Industry Level projects by Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/), [Dell.com](https://dellprojecttest.netlify.app/), [Stack Overflow](https://rococo-rolypoly-a926ac.netlify.app/) and [Hair Salon Appointment Booking System](https://snipsandspikes.netlify.app/).
 
 
 ## My Skillset:
