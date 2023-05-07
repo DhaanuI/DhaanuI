@@ -4,16 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi+there%2C+I+am+Dhaanu)](https://git.io/typing-svg)
 
 
-### An Aspiring Full Stack developer who is very much interested in Web Development, 
-### I have always wondered how Backend system works, hence I liked to be specialised in Backend and so learnt Node.js, express.js, databases like MongoDB & MySQL.
-### I am also proficient in Vanilla JavaScript, HTML & CSS and possess basic knowledge in React.js, TypeScript and AWS.
+### An Aspiring Full Stack developer who is much interested in Web Development, possess skills in Node.js, express.js, databases like MongoDB & MySQL and in memory DB like Redis.
+### Proficient in Vanilla JavaScript, HTML & CSS and basic knowledge in React.js, TypeScript and AWS as well.
  
-### I worked on multiple Industry Level projects by Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/), [Dell.com](https://dellprojecttest.netlify.app/), [Stack Overflow](https://rococo-rolypoly-a926ac.netlify.app/) and [Hair Salon Appointment Booking System](https://snipsandspikes.netlify.app/).
+### Worked on multiple Industry Level projects by Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/), [Dell.com](https://dellprojecttest.netlify.app/), [Stack Overflow](https://rococo-rolypoly-a926ac.netlify.app/) and [Hair Salon Appointment Booking System](https://snipsandspikes.netlify.app/).
 
 
 ## My Skillset:
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,mysql,nodejs,aws)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,mysql,nodejs,aws,redis,react)](https://skillicons.dev)
    
 
  ##  Reach me on :  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dhaanu/) &nbsp; 
