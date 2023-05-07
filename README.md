@@ -12,7 +12,7 @@
 
 ## My Skillset:
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,mysql,nodejs,aws,redis,react)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,mysql,aws,redis,react)](https://skillicons.dev)
    
 
  ##  Reach me on :  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dhaanu/) &nbsp; 
