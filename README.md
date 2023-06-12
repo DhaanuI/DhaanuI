@@ -3,7 +3,10 @@
 
 <img   src="https://github.com/DhaanuI/DhaanuI/blob/main/Colorful%20Photo%20Rainbow%20Facebook%20Cover.gif" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi+there%2C+I+am+Dhaanu)](https://git.io/typing-svg)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=41&pause=1000&width=435&lines=Hi+there%2C+I+am+Dhaanu)](https://git.io/typing-svg)
 
 
 ### An Aspiring Full Stack developer who is much interested in Web Development, possess skills in Node.js, express.js, databases like MongoDB & MySQL and in memory DB like Redis.
