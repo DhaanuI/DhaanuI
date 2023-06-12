@@ -1,18 +1,18 @@
-<!-- ## ![Blue Gradient Header Banner (1)](https://user-images.githubusercontent.com/112754832/215061523-7e21b628-bc42-418e-98cf-e58bb3912026.png) -->
+## ![Blue Gradient Header Banner (1)](https://user-images.githubusercontent.com/112754832/215061523-7e21b628-bc42-418e-98cf-e58bb3912026.png)
 <!-- <img alt="Coder GIF" height=350 width=80% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> -->
 
-<img   src="https://github.com/DhaanuI/DhaanuI/blob/main/Colorful%20Photo%20Rainbow%20Facebook%20Cover.gif" />
+<!-- <img   src="https://github.com/DhaanuI/DhaanuI/blob/main/Colorful%20Photo%20Rainbow%20Facebook%20Cover.gif" />
 
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi+there%2C+I+am+Dhaanu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi+there%2C+I+am+Dhaanu)](https://git.io/typing-svg) -->
 
 
-### An Aspiring Full Stack developer who is much interested in Web Development, possess skills in Node.js, express.js, databases like MongoDB & MySQL and in memory DB like Redis.
-### Proficient in Vanilla JavaScript, HTML & CSS and basic knowledge in React.js, TypeScript and AWS as well.
- 
-### Worked on multiple Industry Level projects by Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/), [Dell.com](https://dellprojecttest.netlify.app/), [Stack Overflow](https://rococo-rolypoly-a926ac.netlify.app/) and [Hair Salon Appointment Booking System](https://snipsandspikes.netlify.app/).
+## Hey All, 
+## Thanks for coming here, Let me tell about you in brief, 
+### I am an Engineering Graduate and an Aspiring Full Stack developer who is much interested in Web Development and worked on multiple Industry Level projects ,
+ ### Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/), [Dell.com](https://dellprojecttest.netlify.app/), [Stack Overflow](https://rococo-rolypoly-a926ac.netlify.app/) and [Hair Salon Appointment Booking System](https://snipsandspikes.netlify.app/).
 
 
 ## My Skillset:
