@@ -10,7 +10,6 @@
 
 
 ## Hey All, 
-## Thanks for coming here, Let me tell about me in brief, 
 ### I am an Engineering Graduate and an Aspiring Full Stack developer who is much interested in Web Development and worked on multiple Industry Level projects ,  Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/), [Dell.com](https://dellprojecttest.netlify.app/), [Stack Overflow](https://rococo-rolypoly-a926ac.netlify.app/) and [Hair Salon Appointment Booking System](https://snipsandspikes.netlify.app/).
 
 
