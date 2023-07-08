@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi+there%2C+I+am+Dhaanu)](https://git.io/typing-svg) -->
 
 
-## Hey All, 
+## Hey, 
 ### I am an Engineering Graduate and an Aspiring Full Stack developer who is much interested in Web Development and worked on multiple Industry Level projects ,  Cloning [Buffer](https://symphonious-beijinho-ddb7b9.netlify.app/), [Tripvillas](https://lustrous-quokka-d5e991.netlify.app/), [Dell.com](https://dellprojecttest.netlify.app/), [Stack Overflow](https://rococo-rolypoly-a926ac.netlify.app/) and [Hair Salon Appointment Booking System](https://snipsandspikes.netlify.app/).
 
 ### I am eager to apply my skills and expertise to contribute to the Organization's vision and mission, while simultaneously advancing my own professional growth.
